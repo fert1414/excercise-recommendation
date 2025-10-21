@@ -33,4 +33,4 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-Исполняемый код находится в файле *main.ipynb*
+Для запуска телеграмм бота, изменить переменную *BOT_TOKEN* в файле *telegram_app.py* на токен своего бота и запустите файл
