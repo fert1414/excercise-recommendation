@@ -19,7 +19,7 @@
 ## Установка
 Клонировать репозиторий
 ```
-git clone https://github.com/fert1414/whitespace-correction.git
+git clone https://github.com/fert1414/excercise-recommendation.git
 ```
 
 Создать и активировать виртуальную среду
